@@ -28,10 +28,10 @@ limitations under the License.
 
 #ifndef ARDUINO_EXCLUDE_CODE
 
-#include "tensorflow/lite/micro/examples/micro_speech/audio_provider.h"
+#include "audio_provider.h"
 
 #include "PDM.h"
-#include "tensorflow/lite/micro/examples/micro_speech/micro_features/micro_model_settings.h"
+#include "micro_features/micro_model_settings.h"
 
 namespace {
 bool g_is_audio_initialized = false;
