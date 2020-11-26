@@ -16,7 +16,7 @@ limitations under the License.
 
 #ifndef ARDUINO_EXCLUDE_CODE
 
-#include "tensorflow/lite/micro/examples/micro_speech/command_responder.h"
+#include "command_responder.h"
 
 #include "Arduino.h"
 
