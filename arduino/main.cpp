@@ -10,7 +10,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ==============================================================================*/
 
-#include "tensorflow/lite/micro/examples/micro_speech/main_functions.h"
+#include "main_functions.h"
 
 // Arduino automatically calls the setup() and loop() functions in a sketch, so
 // where other systems need their own main routine in this file, it can be left
